@@ -1,4 +1,4 @@
-# Wine Pairing Assistant: What to Cook with Your Bottle
+# Wine Pairing RAG Assistant: What to Cook with Your Bottle
 
 A retrieval-augmented generation (RAG) assistant that suggests a home-cooked dish for a bottle
 of wine you already have. Tell it which wine you have (*"I was given a bottle of Chablis, what
@@ -105,7 +105,7 @@ wine-pairing-rag-assistant/
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/wine-pairing-rag-assistant.git
+git clone https://github.com/KaiHoogenhoud/wine-pairing-rag-assistant.git
 cd wine-pairing-rag-assistant
 
 python3 -m venv .venv

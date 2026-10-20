@@ -1,6 +1,6 @@
 ---
 title: Acidity cuts through fat and cream
-category: pairing_rule
+category: pairing_theory
 source: Own notes
 license: Own work
 ---
