@@ -1,0 +1,12 @@
+[project]
+name = "wine-pairing-rag-assistant"
+version = "0.1.0"
+description = "RAG assistant that suggests a home-cooked dish for a bottle of wine you have"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+
+[tool.pytest.ini_options]
+# The app runs its modules from src/ and scripts/ directly (python src/app.py),
+# so the tests import them the same way.
+pythonpath = ["src", "scripts"]
+testpaths = ["tests"]

@@ -1,0 +1,41 @@
+[
+  {
+    "question": "I have a bottle of Barolo, what should I cook?",
+    "expected_topic": "wine",
+    "good_dishes": ["beef", "lamb", "bourguignon", "stew", "pot roast", "risotto", "bolognese"]
+  },
+  {
+    "question": "I was given a bottle of Chablis, what should I cook?",
+    "expected_topic": "wine",
+    "good_dishes": ["fish", "salad", "shellfish", "mussels", "seafood", "shrimp", "gambas", "quiche", "bouillabaisse"]
+  },
+  {
+    "question": "A friend brought a Riesling, what can I make for dinner?",
+    "expected_topic": "wine",
+    "good_dishes": ["thai", "curry", "pad thai", "pork"]
+  },
+  {
+    "question": "What dish goes with a Pinot noir?",
+    "expected_topic": "wine",
+    "good_dishes": ["chicken", "mushroom", "risotto", "salmon", "duck", "coq au vin"]
+  },
+  {
+    "question": "Someone gave me a sweet dessert wine, what can I make?",
+    "expected_topic": "wine",
+    "good_dishes": ["creme brulee", "tart", "pie", "cheesecake", "mousse", "tiramisu"]
+  },
+  {
+    "question": "I have a Saperavi from Georgia, what should I cook?",
+    "expected_topic": "wine",
+    "expect_not_covered": true,
+    "good_dishes": ["beef", "lamb", "stew", "roast", "bourguignon", "moussaka"]
+  },
+  {
+    "question": "What wine goes with spicy Thai green curry?",
+    "expected_topic": "dish"
+  },
+  {
+    "question": "What's the capital of France?",
+    "expected_topic": "other"
+  }
+]

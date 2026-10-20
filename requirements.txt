@@ -1,0 +1,14 @@
+# Core RAG stack (versions match the Ready Tensor project template)
+chromadb==1.0.12
+posthog==5.4.0  # newer posthog breaks chromadb 1.0.x telemetry (noisy warnings)
+sentence-transformers==5.1.0
+langchain-core==0.3.76
+langchain-text-splitters==0.3.11
+langchain-openai==0.3.33
+langchain-groq==0.3.8
+langchain-google-genai==2.1.10
+langchain-ollama==0.3.10
+python-dotenv==1.1.1
+
+# Data download script
+requests==2.32.5

@@ -1,0 +1,80 @@
+---
+title: Fortified wine
+category: wine_style
+source: Wikipedia
+url: https://en.wikipedia.org/wiki/Fortified_wine
+revision_id: 1380726943
+license: CC BY-SA 4.0
+retrieved: 2026-10-19
+---
+
+# Fortified wine
+
+Fortified wine is a wine to which a distilled spirit, usually brandy, has been added. In the course of some centuries, winemakers have developed many different styles of fortified wine, including  port, sherry,  madeira,  Marsala, Commandaria wine, and the aromatised wine vermouth.
+
+## Production
+
+One reason for fortifying wine was to preserve it, since ethanol is also a natural antiseptic. Even though other preservation methods now exist, fortification continues to be used because the process can add distinct flavors to the finished product.
+Although grape brandy is most commonly added to produce fortified wines, the additional alcohol may also be neutral spirit that has been made from grapes, grain, sugar beets or sugarcane. Regional appellation laws may dictate the types of spirit that are permitted for fortification. For example, in the U.S. only spirits made from the same fruit as the wine may be added.
+The source of the additional alcohol and the method of its distillation can affect the flavour of the fortified wine. If neutral spirit is used, it is usually produced with a continuous still, rather than a pot still.
+When added to wine before the fermentation process is complete, the alcohol in the distilled beverage kills the yeast and leaves residual sugar behind. The result is a wine that is both sweeter and stronger, normally containing about 20% alcohol by volume (ABV).
+During the fermentation process, yeast cells in the must continue to convert sugar into alcohol until the must reaches an alcohol level of 16–18%. At this level, the alcohol becomes toxic to the yeast and stalls its metabolism. If fermentation is allowed to run to completion, the resulting wine is (in most cases) low in sugar and is considered a dry wine. Adding alcohol earlier in the fermentation process results in a sweeter wine. For drier fortified wine styles, such as sherry, the alcohol is added shortly before or after the end of the fermentation.
+
+In the case of some fortified wine styles (such as late harvest and botrytized wines), a naturally high level of sugar inhibits the yeast and the rising alcohol content as the high sugar level kills the yeast. This causes fermentation to stop before the wine can become dry.
+
+### Commandaria wine
+
+Commandaria is made in Cyprus' unique AOC region north of Limassol from high-altitude vines of Mavro and Xynisteri, sun-dried and aged in oak barrels. Recent developments have produced different styles of Commandaria, some of which are not fortified.
+
+### Madeira wine
+
+Madeira is a fortified wine made in the Madeira Islands. The wine is produced in a variety of styles ranging from dry wines which can be consumed on their own as an aperitif, to sweet wines more usually consumed with dessert. Madeira is deliberately heated and oxidised as part of its maturation process, resulting in distinctive flavours and an unusually long lifespan once a bottle is opened.
+
+### Marsala wine
+
+Marsala wine is a wine from Sicily that is available in both fortified and unfortified versions. It was first produced in 1772 by an English merchant, John Woodhouse, as an inexpensive substitute for sherry and port, and gets its name from the island's port, Marsala. The fortified version is blended with brandy to make two styles, the younger, slightly weaker Fine, which is at least 17% abv and aged at least four months; and the Superiore, which is at least 18%, and aged at least two years. The unfortified Marsala wine is aged in wooden casks for five years or more and reaches a strength of 18% by evaporation.
+
+### Mistelle
+Mistelle (Italian: mistella; French: mistelle; Spanish, Portuguese, Galician and Catalan: mistela, from Latin mixtella/mixtvm "mix") is sometimes used as an ingredient in fortified wines, particularly Vermouth, Marsala and Sherry, though it is used mainly as a base for apéritifs such as the French Pineau des Charentes. It is produced by adding alcohol to non-fermented or partially fermented grape juice (or apple juice to make pommeau). The addition of alcohol stops the fermentation and, as a consequence Mistelle is sweeter than fully fermented grape juice in which the sugars turn to alcohol.
+
+### Moscatel de Setúbal
+
+Moscatel de Setúbal is a Portuguese wine produced around the Setúbal Municipality on the Península de Setúbal. The wine is made primarily from the Muscat of Alexandria grape and is typically fortified with aguardente. The style was believed to have been invented by José Maria da Fonseca, the founder of the oldest table wine company in Portugal dating back to 1834.
+
+### Port wine
+
+Port wine (also known simply as port) is a fortified wine from the Douro Valley in the northern provinces of Portugal. It is typically a sweet red wine, but also comes in dry, semi-dry and white or rosé styles.
+
+### Sherry
+
+Sherry is a fortified wine made from white grapes that are grown near the town of Jerez, Spain. The word "sherry" itself is an anglicisation of Jerez. In earlier times, sherry was known as sack (from the Spanish saca, meaning "a removal from the solera"). In the European Union "sherry" is a protected designation of origin; therefore, all wine labelled as "sherry" must legally come from the Sherry Triangle, which is an area in the province of Cádiz between Jerez de la Frontera, Sanlúcar de Barrameda and El Puerto de Santa María.
+After fermentation is complete, sherry is fortified with brandy. Because the fortification takes place after fermentation, most sherries are initially dry, with any sweetness being added later. In contrast, port wine (for example) is fortified halfway through its fermentation, which stops the process so that not all of the sugar is turned into alcohol.
+
+Sherry is produced in a variety of styles, ranging from dry, light versions such as finos to much darker and sometimes sweeter versions known as olorosos. Cream sherry is always sweet.
+
+### Vermouth
+
+Vermouth is a fortified wine flavoured with aromatic herbs and spices ("aromatised" in the trade) using closely guarded recipes (trade secrets). Some of the herbs and spices used may include cardamom, cinnamon, marjoram, and chamomile. Some vermouth is sweetened. Unsweetened or dry vermouth tends to be bitter. The person credited with the second vermouth recipe, Antonio Benedetto Carpano from Turin, Italy, chose to name his concoction "vermouth" in 1786 because he was inspired by a German wine flavoured with wormwood, an herb most famously used in distilling absinthe. Wine flavoured with wormwood goes back to ancient Rome. The modern German word Wermut (Wermuth in the spelling of Carpano's time) means both wormwood and vermouth. The herbs were originally used to mask raw flavours of cheaper wines, imparting a slightly medicinal "tonic" flavor.
+
+### Vins doux naturels
+
+Vins doux naturels (VDN) are lightly fortified wines typically made from white Muscat grapes or red Grenache grapes in the south of France. As the name suggests, Muscat de Beaumes-de-Venise, Muscat de Rivesaltes and Muscat de Frontignan are all made from the white Muscat grape, whilst Banyuls and Maury are made from red Grenache. Other wines, like those of Rivesaltes AOC, can be made from red or white grapes. Regardless of the grape, fermentation is stopped by the addition of up to 10% of a 190 proof (95% abv) grape spirit. The Grenache vins doux naturels can be made in an oxidised or unoxidised style whereas the Muscat wines are protected from oxidation to retain their freshness.
+
+### Vins de liqueur
+
+A vin de liqueur is a sweet fortified style of French wine that is fortified by adding brandy to unfermented grape must. The term vin de liqueur is also used by the European Union to refer to all fortified wines. Vins de liqueur take greater flavour from the added brandy but are also sweeter than vin doux.
+Examples include Floc de Gascogne which is made using 1/3 armagnac to 2/3 grape juice from the same vineyard, Pineau des Charentes in the Cognac zone, Macvin in Jura; there is also Pommeau similarly made by blending apple juice and apple brandy.
+
+### Low-end fortified wines
+
+Inexpensive fortified wines became popular during the Great Depression for their relatively high alcohol content. The term wino was coined during this period to describe impoverished alcoholics of the time.
+These wines continue to be associated with the homeless, mainly because marketers have been aggressive in targeting low-income communities as ideal consumers of these beverages; organisations in cities such as Los Angeles, San Francisco, Seattle, and Portland have urged makers of inexpensive fortified wine, including E & J Gallo Winery to stop heavily marketing such products to liquor stores in impoverished areas. In 2005, the Seattle City Council asked the Washington State Liquor Control Board to prohibit the sale of certain alcohol products in an impoverished "Alcohol Impact Area." Among the products sought to be banned were over two dozen beers, and six fortified wines: Cisco, Gino's Premium Blend, MD 20/20, Night Train Express, Thunderbird, and Wild Irish Rose. The Liquor Control Board approved these restrictions on 30 August 2006.
+
+### Gwaha-ju
+
+Gwaha-ju is a fortified rice wine made in Korea.
+Although rice wine is not made from grapes, it has a similar alcohol content to grape wine, and the addition of the distilled spirit, soju, and other ingredients like ginseng, jujubes, ginger, etc., to the rice wine, bears similarity to the above-mentioned fortified wines.
+
+## Terminology
+Fortified wines are often termed dessert wines in the United States to avoid association with hard drinking. The term "vins de liqueur" is used by the French.
+Under European Union legislation, a liqueur wine is a fortified wine that contains 15–22% abv, with Total Alcoholic Strength of no less than 17.5%, and that meets many additional criteria. Exemptions are allowed for certain quality liqueur wines.
